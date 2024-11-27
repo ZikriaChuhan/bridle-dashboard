@@ -12,7 +12,7 @@ export default function Tab() {
                 <TabsContent value="account">
                     <FeaturedEvents />
                 </TabsContent>
-                <TabsContent value="password">Change your password here.</TabsContent>
+                <TabsContent value="password"></TabsContent>
             </Tabs>
         </>
     );
